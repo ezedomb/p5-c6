@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;}
+	.st2{enable-background:new    ;}
+	.st3{font-family:'JohnDoe';}
+	.st4{font-size:90px;}
+</style>
+<g>
+	<path d="M89.3,598.4c-49.3,0-89.5-40.2-89.5-89.5v-420C-0.2,39.6,40-0.6,89.3-0.6h420c49.3,0,89.5,40.2,89.5,89.5v420
+		c0,49.3-40.2,89.5-89.5,89.5H89.3z"/>
+	<path class="st0" d="M509.3-0.1c23.7,0,46,9.3,62.9,26.1s26.1,39.2,26.1,62.9v420c0,23.7-9.3,46-26.1,62.9s-39.2,26.1-62.9,26.1
+		h-420c-23.7,0-46-9.3-62.9-26.1S0.3,532.6,0.3,508.9v-420c0-23.7,9.3-46,26.1-62.9S65.6-0.1,89.3-0.1H509.3 M509.3-1.1h-420
+		c-49.5,0-90,40.5-90,90v420c0,49.5,40.5,90,90,90h420c49.5,0,90-40.5,90-90v-420C599.3,39.4,558.8-1.1,509.3-1.1L509.3-1.1z"/>
+</g>
+<rect x="-4" y="147.4" class="st1" width="603" height="315.7"/>
+<text transform="matrix(1 0 0 1 98.2487 273.7067)" class="st2"><tspan x="0" y="0" class="st0 st3 st4">weather</tspan><tspan x="-3.6" y="108" class="st0 st3 st4">Channel</tspan></text>
+</svg>
